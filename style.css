@@ -4,4 +4,6 @@ body{
 .home-start{
     background-color: blue;
     font-size: 18;
+    list-style: none;
+    padding: 20px 30px;
 }
